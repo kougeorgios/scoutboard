@@ -1,5 +1,6 @@
 # scoutboard
 Web application for Football's data and Analytics for Greek Super League 2025-2026
+
 ScoutBoard is a web-based football analytics platform developed as part of a diploma thesis.  
 The application focuses on the collection, processing, analysis, and visualization of football data, offering interactive statistics and insights for teams, competitions, players and coaches.
 
