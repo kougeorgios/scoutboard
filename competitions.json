@@ -1,0 +1,563 @@
+[
+  {
+    "id": 1,
+    "name": "EURO",
+    "country": "International Competition, Europe"
+  },
+  {
+    "id": 7,
+    "name": "UEFA Champions League",
+    "country": "International Competition, Europe"
+  },
+  {
+    "id": 8,
+    "name": "LaLiga",
+    "country": "Spain"
+  },
+  {
+    "id": 9,
+    "name": "Challenger Pro League",
+    "country": "Belgium"
+  },
+  {
+    "id": 11,
+    "name": "World Cup Qual. UEFA",
+    "country": "International Competition, Europe"
+  },
+  {
+    "id": 13,
+    "name": "World Cup Qual. CAF ",
+    "country": "International Competition, Africa"
+  },
+  {
+    "id": 14,
+    "name": "World Cup Qual. CONCACAF",
+    "country": "International Competition, North & Central America"
+  },
+  {
+    "id": 16,
+    "name": "FIFA World Cup",
+    "country": "World"
+  },
+  {
+    "id": 17,
+    "name": "Premier League",
+    "country": "England"
+  },
+  {
+    "id": 18,
+    "name": "Championship",
+    "country": "England"
+  },
+  {
+    "id": 19,
+    "name": "FA Cup",
+    "country": "England"
+  },
+  {
+    "id": 20,
+    "name": "Eliteserien",
+    "country": "Norway"
+  },
+  {
+    "id": 21,
+    "name": "EFL Cup",
+    "country": "England"
+  },
+  {
+    "id": 22,
+    "name": "Norwegian 1st Division",
+    "country": "Norway"
+  },
+  {
+    "id": 23,
+    "name": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "id": 24,
+    "name": "League One",
+    "country": "England"
+  },
+  {
+    "id": 25,
+    "name": "League Two",
+    "country": "England"
+  },
+  {
+    "id": 26,
+    "name": "U21 Euro Qualification",
+    "country": "International Competition, Europe"
+  },
+  {
+    "id": 27,
+    "name": "EURO, Qualification",
+    "country": "International Competition, Europe"
+  },
+  {
+    "id": 28,
+    "name": "AFC Asian Cup Qual.",
+    "country": "International Competition, Asia"
+  },
+  {
+    "id": 29,
+    "name": "NM Cup",
+    "country": "Norway"
+  },
+  {
+    "id": 34,
+    "name": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "id": 35,
+    "name": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "id": 36,
+    "name": "Scottish Premiership",
+    "country": "Scotland"
+  },
+  {
+    "id": 37,
+    "name": "VriendenLoterij Eredivisie",
+    "country": "Netherlands"
+  },
+  {
+    "id": 38,
+    "name": "Pro League",
+    "country": "Belgium"
+  },
+  {
+    "id": 39,
+    "name": "Danish Superliga",
+    "country": "Denmark"
+  },
+  {
+    "id": 40,
+    "name": "Allsvenskan",
+    "country": "Sweden"
+  },
+  {
+    "id": 41,
+    "name": "Veikkausliiga",
+    "country": "Finland"
+  },
+  {
+    "id": 42,
+    "name": "Regionalliga Nord",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 43,
+    "name": "Regionalliga South",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 44,
+    "name": "2. Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "id": 45,
+    "name": "Austrian Bundesliga",
+    "country": "Austria"
+  },
+  {
+    "id": 46,
+    "name": "Superettan",
+    "country": "Sweden"
+  },
+  {
+    "id": 47,
+    "name": "Betinia Liga",
+    "country": "Denmark"
+  },
+  {
+    "id": 48,
+    "name": "2nd Division",
+    "country": "Norway"
+  },
+  {
+    "id": 49,
+    "name": "2nd Division, avd. 2",
+    "country": "Norway"
+  },
+  {
+    "id": 50,
+    "name": "2nd Division, avd. 3",
+    "country": "Norway"
+  },
+  {
+    "id": 51,
+    "name": "2nd Division, avd. 4",
+    "country": "Norway"
+  },
+  {
+    "id": 52,
+    "name": "Trendyol Süper Lig",
+    "country": "Turkey"
+  },
+  {
+    "id": 53,
+    "name": "Serie B",
+    "country": "Italy"
+  },
+  {
+    "id": 54,
+    "name": "LaLiga 2",
+    "country": "Spain"
+  },
+  {
+    "id": 55,
+    "name": "Ykkösliiga",
+    "country": "Finland"
+  },
+  {
+    "id": 65,
+    "name": "CampoBet 2 Division",
+    "country": "Denmark"
+  },
+  {
+    "id": 66,
+    "name": "2nd Division, Pulje 2",
+    "country": "Denmark"
+  },
+  {
+    "id": 67,
+    "name": "Ettan, Norra",
+    "country": "Sweden"
+  },
+  {
+    "id": 68,
+    "name": "Ettan, Södra",
+    "country": "Sweden"
+  },
+  {
+    "id": 69,
+    "name": "Division 2, Mellersta Gotaland",
+    "country": "Sweden"
+  },
+  {
+    "id": 70,
+    "name": "Division 2, Norra Svealand",
+    "country": "Sweden"
+  },
+  {
+    "id": 71,
+    "name": "Division 2, Norrland",
+    "country": "Sweden"
+  },
+  {
+    "id": 72,
+    "name": "Division 2, Södra Götaland",
+    "country": "Sweden"
+  },
+  {
+    "id": 73,
+    "name": "Division 2, Västra Götaland ",
+    "country": "Sweden"
+  },
+  {
+    "id": 74,
+    "name": "Division 2, Södra Svealand",
+    "country": "Sweden"
+  },
+  {
+    "id": 76,
+    "name": "Oddset Pokalen",
+    "country": "Denmark"
+  },
+  {
+    "id": 80,
+    "name": "Svenska Cupen",
+    "country": "Sweden"
+  },
+  {
+    "id": 83,
+    "name": "Liigacup",
+    "country": "Finland"
+  },
+  {
+    "id": 84,
+    "name": "Primera División",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 91,
+    "name": "Russian Cup",
+    "country": "Russia"
+  },
+  {
+    "id": 92,
+    "name": "Carioca",
+    "country": "Brazil"
+  },
+  {
+    "id": 96,
+    "name": "Türkiye Kupası",
+    "country": "Turkey"
+  },
+  {
+    "id": 97,
+    "name": "Nesine 2. Lig",
+    "country": "Turkey"
+  },
+  {
+    "id": 98,
+    "name": "Trendyol 1.Lig",
+    "country": "Turkey"
+  },
+  {
+    "id": 101,
+    "name": "J. League Cup",
+    "country": "Japan"
+  },
+  {
+    "id": 111,
+    "name": "3 Division, Avdeling 2",
+    "country": "Norway Amateur"
+  },
+  {
+    "id": 114,
+    "name": "3 Division, Avdeling 10",
+    "country": "Norway Amateur"
+  },
+  {
+    "id": 131,
+    "name": "Eerste Divisie",
+    "country": "Netherlands"
+  },
+  {
+    "id": 133,
+    "name": "Copa América",
+    "country": "International Competition, South America"
+  },
+  {
+    "id": 135,
+    "name": "2. Liga",
+    "country": "Austria"
+  },
+  {
+    "id": 136,
+    "name": "A-League Men",
+    "country": "Australia"
+  },
+  {
+    "id": 140,
+    "name": "CONCACAF Gold Cup",
+    "country": "International Competition, North & Central America"
+  },
+  {
+    "id": 142,
+    "name": "Oberliga Baden Wuerttemberg",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 144,
+    "name": "Bayernliga",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 145,
+    "name": "Oberliga NOFV Nord",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 146,
+    "name": "Oberliga Westfalen",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 150,
+    "name": "Oberliga NOFV Süd",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 152,
+    "name": "Romanian SuperLiga",
+    "country": "Romania"
+  },
+  {
+    "id": 154,
+    "name": "Montenegrin First League",
+    "country": "Montenegro"
+  },
+  {
+    "id": 155,
+    "name": "Liga Profesional de Fútbol",
+    "country": "Argentina"
+  },
+  {
+    "id": 166,
+    "name": "Regionalliga Ost",
+    "country": "Austria Amateur"
+  },
+  {
+    "id": 167,
+    "name": "Regionalliga West",
+    "country": "Austria Amateur"
+  },
+  {
+    "id": 168,
+    "name": "Regionalliga Mitte",
+    "country": "Austria Amateur"
+  },
+  {
+    "id": 169,
+    "name": "Vysshaya Liga",
+    "country": "Belarus"
+  },
+  {
+    "id": 170,
+    "name": "HNL",
+    "country": "Croatia"
+  },
+  {
+    "id": 171,
+    "name": "Cyprus League by Stoiximan",
+    "country": "Cyprus"
+  },
+  {
+    "id": 172,
+    "name": "Czech First League",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 173,
+    "name": "National League",
+    "country": "England"
+  },
+  {
+    "id": 174,
+    "name": "National League South",
+    "country": "England Amateur"
+  },
+  {
+    "id": 176,
+    "name": "National League North",
+    "country": "England Amateur"
+  },
+  {
+    "id": 177,
+    "name": "Liga Nacional",
+    "country": "Guatemala"
+  },
+  {
+    "id": 178,
+    "name": "Premium Liiga",
+    "country": "Estonia"
+  },
+  {
+    "id": 179,
+    "name": "Kakkonen, Group A",
+    "country": "Finland"
+  },
+  {
+    "id": 180,
+    "name": "Kakkonen, Group B",
+    "country": "Finland"
+  },
+  {
+    "id": 181,
+    "name": "Kakkonen, Group C",
+    "country": "Finland"
+  },
+  {
+    "id": 182,
+    "name": "Ligue 2",
+    "country": "France"
+  },
+  {
+    "id": 183,
+    "name": "National 1",
+    "country": "France"
+  },
+  {
+    "id": 184,
+    "name": "Hessenliga",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 185,
+    "name": "Stoiximan Super League",
+    "country": "Greece"
+  },
+  {
+    "id": 186,
+    "name": "Super League 2",
+    "country": "Greece"
+  },
+  {
+    "id": 187,
+    "name": "Fizz Liga",
+    "country": "Hungary"
+  },
+  {
+    "id": 188,
+    "name": "Besta deild karla",
+    "country": "Iceland"
+  },
+  {
+    "id": 190,
+    "name": "Oberliga Southwest",
+    "country": "Germany Amateur"
+  },
+  {
+    "id": 192,
+    "name": "Premier Division",
+    "country": "Ireland"
+  },
+  {
+    "id": 193,
+    "name": "Ireland 1st Division",
+    "country": "Ireland"
+  },
+  {
+    "id": 194,
+    "name": "League Cup",
+    "country": "Ireland"
+  },
+  {
+    "id": 195,
+    "name": "FAI Cup",
+    "country": "Ireland"
+  },
+  {
+    "id": 196,
+    "name": "J1 League",
+    "country": "Japan"
+  },
+  {
+    "id": 197,
+    "name": "Virsliga",
+    "country": "Latvia"
+  },
+  {
+    "id": 198,
+    "name": "A Lyga",
+    "country": "Lithuania"
+  },
+  {
+    "id": 199,
+    "name": "1. MFL",
+    "country": "North Macedonia"
+  },
+  {
+    "id": 200,
+    "name": "NIFL Premiership",
+    "country": "Northern Ireland"
+  },
+  {
+    "id": 679,
+    "name": "UEFA Europa League",
+    "country": "International Competition, Europe"
+  },
+  {
+    "id": 17015,
+    "name": "UEFA Conference League",
+    "country": "International Competition, Europe"
+  }
+
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "id": 42,
+    "name": "Arsenal",
+    "country": "England"
+  },
+  {
+    "id": 17,
+    "name": "Manchester City",
+    "country": "England"
+  },
+  {
+    "id": 38,
+    "name": "Chelsea",
+    "country": "England"
+  },
+  {
+    "id": 41,
+    "name": "Sunderland",
+    "country": "England"
+  },
+  {
+    "id": 33,
+    "name": "Tottenham Hotspur",
+    "country": "England"
+  },
+  {
+    "id": 40,
+    "name": "Aston Villa",
+    "country": "England"
+  },
+  {
+    "id": 35,
+    "name": "Manchester United",
+    "country": "England"
+  },
+  {
+    "id": 44,
+    "name": "Liverpool",
+    "country": "England"
+  },
+  {
+    "id": 60,
+    "name": "Bournemouth",
+    "country": "England"
+  },
+  {
+    "id": 7,
+    "name": "Crystal Palace",
+    "country": "England"
+  },
+  {
+    "id": 30,
+    "name": "Brighton & Hove Albion",
+    "country": "England"
+  },
+  {
+    "id": 50,
+    "name": "Brentford",
+    "country": "England"
+  },
+  {
+    "id": 48,
+    "name": "Everton",
+    "country": "England"
+  },
+  {
+    "id": 39,
+    "name": "Newcastle United",
+    "country": "England"
+  },
+  {
+    "id": 43,
+    "name": "Fulham",
+    "country": "England"
+  },
+  {
+    "id": 34,
+    "name": "Leeds United",
+    "country": "England"
+  },
+  {
+    "id": 6,
+    "name": "Burnley",
+    "country": "England"
+  },
+  {
+    "id": 37,
+    "name": "West Ham United",
+    "country": "England"
+  },
+  {
+    "id": 14,
+    "name": "Nottingham Forest",
+    "country": "England"
+  },
+  {
+    "id": 3,
+    "name": "Wolverhampton",
+    "country": "England"
+  },
+  {
+    "id": 3245,
+    "name": "Olympiacos FC",
+    "country": "Greece"
+  },
+  {
+    "id": 3251,
+    "name": "PAOK",
+    "country": "Greece"
+  },
+  {
+    "id": 3250,
+    "name": "AEK Athens",
+    "country": "Greece"
+  },
+  {
+    "id": 5063,
+    "name": "APO Levadiakos",
+    "country": "Greece"
+  },
+  {
+    "id": 267459,
+    "name": "NPS Volos",
+    "country": "Greece"
+  },
+  {
+    "id": 3248,
+    "name": "Panathinaikos",
+    "country": "Greece"
+  },
+  {
+    "id": 3252,
+    "name": "Aris Thessaloniki",
+    "country": "Greece"
+  },
+  {
+    "id": 120224,
+    "name": "AE Kifisia",
+    "country": "Greece"
+  },
+  {
+    "id": 7004,
+    "name": "GFS Panetolikos",
+    "country": "Greece"
+  },
+  {
+    "id": 5062,
+    "name": "APS Atromitos Athinon",
+    "country": "Greece"
+  },
+  {
+    "id": 6342,
+    "name": "Asteras Aktor",
+    "country": "Greece"
+  },
+  {
+    "id": 3265,
+    "name": "AEL Novibet",
+    "country": "Greece"
+  },
+  {
+    "id": 3241,
+    "name": "OFI Crete",
+    "country": "Greece"
+  },
+  {
+    "id": 6347,
+    "name": "MGS Panserraikos",
+    "country": "Greece"
+  },
+  {
+    "id": 2829,
+    "name": "Real Madrid",
+    "country": "Spain"
+  },
+  {
+    "id": 2817,
+    "name": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "id": 2819,
+    "name": "Villarreal",
+    "country": "Spain"
+  },
+  {
+    "id": 2836,
+    "name": "Atlético Madrid",
+    "country": "Spain"
+  },
+  {
+    "id": 2816,
+    "name": "Real Betis",
+    "country": "Spain"
+  },
+  {
+    "id": 2814,
+    "name": "Espanyol",
+    "country": "Spain"
+  },
+  {
+    "id": 2825,
+    "name": "Athletic Club",
+    "country": "Spain"
+  },
+  {
+    "id": 2859,
+    "name": "Getafe",
+    "country": "Spain"
+  },
+  {
+    "id": 2833,
+    "name": "Sevilla",
+    "country": "Spain"
+  },
+  {
+    "id": 2885,
+    "name": "Deportivo Alavés",
+    "country": "Spain"
+  },
+  {
+    "id": 2846,
+    "name": "Elche",
+    "country": "Spain"
+  },
+  {
+    "id": 2818,
+    "name": "Rayo Vallecano",
+    "country": "Spain"
+  },
+  {
+    "id": 2821,
+    "name": "Celta Vigo",
+    "country": "Spain"
+  },
+  {
+    "id": 2824,
+    "name": "Real Sociedad",
+    "country": "Spain"
+  },
+  {
+    "id": 2826,
+    "name": "Mallorca",
+    "country": "Spain"
+  },
+  {
+    "id": 2820,
+    "name": "Osasuna",
+    "country": "Spain"
+  },
+  {
+    "id": 2828,
+    "name": "Valencia",
+    "country": "Spain"
+  },
+  {
+    "id": 24264,
+    "name": "Girona FC",
+    "country": "Spain"
+  },
+  {
+    "id": 2849,
+    "name": "Levante UD",
+    "country": "Spain"
+  },
+  {
+    "id": 2851,
+    "name": "Real Oviedo",
+    "country": "Spain"
+  },
+  {
+    "id": 2697,
+    "name": "Inter",
+    "country": "Italy"
+  },
+  {
+    "id": 2702,
+    "name": "Roma",
+    "country": "Italy"
+  },
+  {
+    "id": 2692,
+    "name": "Milan",
+    "country": "Italy"
+  },
+  {
+    "id": 2714,
+    "name": "Napoli",
+    "country": "Italy"
+  },
+  {
+    "id": 2685,
+    "name": "Bologna",
+    "country": "Italy"
+  },
+  {
+    "id": 2687,
+    "name": "Juventus",
+    "country": "Italy"
+  },
+  {
+    "id": 2704,
+    "name": "Como",
+    "country": "Italy"
+  },
+  {
+    "id": 2793,
+    "name": "Sassuolo",
+    "country": "Italy"
+  },
+  {
+    "id": 2699,
+    "name": "Lazio",
+    "country": "Italy"
+  },
+  {
+    "id": 2695,
+    "name": "Udinese",
+    "country": "Italy"
+  },
+  {
+    "id": 2761,
+    "name": "Cremonese",
+    "country": "Italy"
+  },
+  {
+    "id": 2696,
+    "name": "Torino",
+    "country": "Italy"
+  },
+  {
+    "id": 2686,
+    "name": "Atalanta",
+    "country": "Italy"
+  },
+  {
+    "id": 2719,
+    "name": "Cagliari",
+    "country": "Italy"
+  },
+  {
+    "id": 2689,
+    "name": "Lecce",
+    "country": "Italy"
+  },
+  {
+    "id": 2737,
+    "name": "Pisa",
+    "country": "Italy"
+  },
+  {
+    "id": 2690,
+    "name": "Parma",
+    "country": "Italy"
+  },
+  {
+    "id": 2713,
+    "name": "Genoa",
+    "country": "Italy"
+  },
+  {
+    "id": 2701,
+    "name": "Hellas Verona",
+    "country": "Italy"
+  },
+  {
+    "id": 2693,
+    "name": "Fiorentina",
+    "country": "Italy"
+  },
+  {
+    "id": 2672,
+    "name": "FC Bayern München",
+    "country": "Germany"
+  },
+  {
+    "id": 36360,
+    "name": "RB Leipzig",
+    "country": "Germany"
+  },
+  {
+    "id": 2673,
+    "name": "Borussia Dortmund",
+    "country": "Germany"
+  },
+  {
+    "id": 2677,
+    "name": "VfB Stuttgart",
+    "country": "Germany"
+  },
+  {
+    "id": 2681,
+    "name": "Bayer 04 Leverkusen",
+    "country": "Germany"
+  },
+  {
+    "id": 2569,
+    "name": "TSG Hoffenheim",
+    "country": "Germany"
+  },
+  {
+    "id": 2674,
+    "name": "Eintracht Frankfurt",
+    "country": "Germany"
+  },
+  {
+    "id": 2534,
+    "name": "SV Werder Bremen",
+    "country": "Germany"
+  },
+  {
+    "id": 2671,
+    "name": "1. FC Köln",
+    "country": "Germany"
+  },
+  {
+    "id": 2538,
+    "name": "SC Freiburg",
+    "country": "Germany"
+  },
+  {
+    "id": 2547,
+    "name": "1. FC Union Berlin",
+    "country": "Germany"
+  },
+  {
+    "id": 2527,
+    "name": "Borussia M'gladbach",
+    "country": "Germany"
+  },
+  {
+    "id": 2676,
+    "name": "Hamburger SV",
+    "country": "Germany"
+  },
+  {
+    "id": 2524,
+    "name": "VfL Wolfsburg",
+    "country": "Germany"
+  },
+  {
+    "id": 2600,
+    "name": "FC Augsburg",
+    "country": "Germany"
+  },
+  {
+    "id": 2526,
+    "name": "FC St. Pauli",
+    "country": "Germany"
+  },
+  {
+    "id": 2556,
+    "name": "1. FSV Mainz 05",
+    "country": "Germany"
+  },
+  {
+    "id": 5885,
+    "name": "1. FC Heidenheim",
+    "country": "Germany"
+  },
+  {
+    "id": 1644,
+    "name": "Paris Saint-Germain",
+    "country": "France"
+  },
+  {
+    "id": 1641,
+    "name": "Olympique de Marseille",
+    "country": "France"
+  },
+  {
+    "id": 1648,
+    "name": "RC Lens",
+    "country": "France"
+  },
+  {
+    "id": 1659,
+    "name": "RC Strasbourg",
+    "country": "France"
+  },
+  {
+    "id": 1643,
+    "name": "Lille",
+    "country": "France"
+  },
+  {
+    "id": 1653,
+    "name": "AS Monaco",
+    "country": "Monaco"
+  },
+  {
+    "id": 1649,
+    "name": "Olympique Lyonnais",
+    "country": "France"
+  },
+  {
+    "id": 1658,
+    "name": "Stade Rennais",
+    "country": "France"
+  },
+  {
+    "id": 1661,
+    "name": "Nice",
+    "country": "France"
+  },
+  {
+    "id": 1681,
+    "name": "Toulouse",
+    "country": "France"
+  },
+  {
+    "id": 6070,
+    "name": "Paris FC",
+    "country": "France"
+  },
+  {
+    "id": 1662,
+    "name": "Le Havre",
+    "country": "France"
+  },
+  {
+    "id": 1684,
+    "name": "Angers",
+    "country": "France"
+  },
+  {
+    "id": 1651,
+    "name": "Metz",
+    "country": "France"
+  },
+  {
+    "id": 1715,
+    "name": "Stade Brestois",
+    "country": "France"
+  },
+  {
+    "id": 1647,
+    "name": "Nantes",
+    "country": "France"
+  },
+  {
+    "id": 1656,
+    "name": "Lorient",
+    "country": "France"
+  },
+  {
+    "id": 1646,
+    "name": "Auxerre",
+    "country": "France"
+  },
+  {
+    "id": 3061,
+    "name": "Galatasaray",
+    "country": "Türkiye"
+  },
+  {
+    "id": 3001,
+    "name": "Sporting CP",
+    "country": "Portugal"
+  },
+  {
+    "id": 5962,
+    "name": "Qarabağ FK",
+    "country": "Azerbaijan"
+  },
+  {
+    "id": 2952,
+    "name": "PSV Eindhoven",
+    "country": "Netherlands"
+  },
+  {
+    "id": 171626,
+    "name": "Pafos FC",
+    "country": "Cyprus"
+  },
+  {
+    "id": 2888,
+    "name": "Club Brugge KV",
+    "country": "Belgium"
+  },
+  {
+    "id": 4860,
+    "name": "Royale Union Saint-Gilloise",
+    "country": "Belgium"
+  },
+  {
+    "id": 656,
+    "name": "Bodø/Glimt",
+    "country": "Norway"
+  },
+  {
+    "id": 2216,
+    "name": "SK Slavia Praha",
+    "country": "Czechia"
+  },
+  {
+    "id": 1284,
+    "name": "FC København",
+    "country": "Denmark"
+  },
+  {
+    "id": 5172,
+    "name": "Kairat Almaty",
+    "country": "Kazakhstan"
+  },
+  {
+    "id": 3006,
+    "name": "Benfica",
+    "country": "Portugal"
+  },
+  {
+    "id": 2953,
+    "name": "AFC Ajax",
+    "country": "Netherlands"
+  },
+  {
+    "id": 1289,
+    "name": "FC Midtjylland",
+    "country": "Denmark"
+  },
+  {
+    "id": 1925,
+    "name": "Ferencváros TC",
+    "country": "Hungary"
+  },
+  {
+    "id": 2999,
+    "name": "Sporting Braga",
+    "country": "Portugal"
+  },
+  {
+    "id": 4502,
+    "name": "Viktoria Plzeň",
+    "country": "Czechia"
+  },
+  {
+    "id": 1159,
+    "name": "SK Brann",
+    "country": "Norway"
+  },
+  {
+    "id": 2032,
+    "name": "GNK Dinamo Zagreb",
+    "country": "Croatia"
+  },
+  {
+    "id": 2890,
+    "name": "KRC Genk",
+    "country": "Belgium"
+  },
+  {
+    "id": 3002,
+    "name": "FC Porto",
+    "country": "Portugal"
+  },
+  {
+    "id": 3052,
+    "name": "Fenerbahçe",
+    "country": "Türkiye"
+  },
+  {
+    "id": 2501,
+    "name": "Basel",
+    "country": "Switzerland"
+  },
+  {
+    "id": 2979,
+    "name": "Go Ahead Eagles",
+    "country": "Netherlands"
+  },
+  {
+    "id": 2445,
+    "name": "Young Boys",
+    "country": "Switzerland"
+  },
+  {
+    "id": 5149,
+    "name": "FK Crvena zvezda",
+    "country": "Serbia"
+  },
+  {
+    "id": 2051,
+    "name": "SK Sturm Graz",
+    "country": "Austria"
+  },
+  {
+    "id": 2352,
+    "name": "Celtic",
+    "country": "Scotland"
+  },
+  {
+    "id": 2046,
+    "name": "Red Bull Salzburg",
+    "country": "Austria"
+  },
+  {
+    "id": 2959,
+    "name": "Feyenoord",
+    "country": "Netherlands"
+  },
+  {
+    "id": 43840,
+    "name": "Ludogorets",
+    "country": "Bulgaria"
+  },
+  {
+    "id": 3301,
+    "name": "FCSB",
+    "country": "Romania"
+  },
+  {
+    "id": 2948,
+    "name": "FC Utrecht",
+    "country": "Netherlands"
+  },
+  {
+    "id": 1892,
+    "name": "Malmö FF",
+    "country": "Sweden"
+  },
+  {
+    "id": 5198,
+    "name": "Maccabi Tel Aviv",
+    "country": "Israel"
+  },
+  {
+    "id": 2351,
+    "name": "Rangers",
+    "country": "Scotland"
+  },
+  {
+    "id": 3053,
+    "name": "Samsunspor",
+    "country": "Türkiye"
+  },
+  {
+    "id": 2413,
+    "name": "NK Celje",
+    "country": "Slovenia"
+  },
+  {
+    "id": 3404,
+    "name": "AEK Larnaca",
+    "country": "Cyprus"
+  },
+  {
+    "id": 2446,
+    "name": "FC Lausanne-Sport",
+    "country": "Switzerland"
+  },
+  {
+    "id": 3313,
+    "name": "Shakhtar Donetsk",
+    "country": "Ukraine"
+  },
+  {
+    "id": 2244,
+    "name": "KuPS",
+    "country": "Finland"
+  },
+  {
+    "id": 35268,
+    "name": "Raków Częstochowa",
+    "country": "Poland"
+  },
+  {
+    "id": 229755,
+    "name": "FC Drita",
+    "country": "Kosovo"
+  },
+  {
+    "id": 7691,
+    "name": "Jagiellonia Białystok",
+    "country": "Poland"
+  },
+  {
+    "id": 2218,
+    "name": "AC Sparta Praha",
+    "country": "Czechia"
+  },
+  {
+    "id": 262228,
+    "name": "FC Noah",
+    "country": "Armenia"
+  },
+  {
+    "id": 2039,
+    "name": "HNK Rijeka",
+    "country": "Croatia"
+  },
+  {
+    "id": 2207,
+    "name": "SK Sigma Olomouc",
+    "country": "Czechia"
+  },
+  {
+    "id": 116223,
+    "name": "Universitatea Craiova",
+    "country": "Romania"
+  },
+  {
+    "id": 5413,
+    "name": "KF Shkëndija",
+    "country": "North Macedonia"
+  },
+  {
+    "id": 126304,
+    "name": "Lincoln Red Imps",
+    "country": "Gibraltar"
+  },
+  {
+    "id": 3121,
+    "name": "Lech Poznań",
+    "country": "Poland"
+  },
+  {
+    "id": 3305,
+    "name": "Dynamo Kyiv",
+    "country": "Ukraine"
+  },
+  {
+    "id": 3106,
+    "name": "Legia Warszawa",
+    "country": "Poland"
+  },
+  {
+    "id": 5178,
+    "name": "HŠK Zrinjski Mostar",
+    "country": "Bosnia & Herzegovina"
+  },
+  {
+    "id": 2950,
+    "name": "AZ Alkmaar",
+    "country": "Netherlands"
+  },
+  {
+    "id": 1760,
+    "name": "BK Häcken",
+    "country": "Sweden"
+  },
+  {
+    "id": 3395,
+    "name": "Omonia Nicosia",
+    "country": "Cyprus"
+  },
+  {
+    "id": 3174,
+    "name": "Shelbourne",
+    "country": "Ireland"
+  },
+  {
+    "id": 3177,
+    "name": "Shamrock Rovers",
+    "country": "Ireland"
+  },
+  {
+    "id": 1901,
+    "name": "Breidablik Kópavogur",
+    "country": "Iceland"
+  },
+  {
+    "id": 2355,
+    "name": "Aberdeen",
+    "country": "Scotland"
+  },
+  {
+    "id": 2404,
+    "name": "ŠK Slovan Bratislava",
+    "country": "Slovakia"
+  },
+  {
+    "id": 33583,
+    "name": "Ħamrun Spartans FC",
+    "country": "Malta"
+  },
+  {
+    "id": 2055,
+    "name": "SK Rapid Wien",
+    "country": "Austria"
+  }
+]
