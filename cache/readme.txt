@@ -1,1 +1,1 @@
-
+This directory is used for caching recent API responses. By storing data locally, the application avoids redundant API requests for frequently accessed information, significantly improving load times and reducing overall network traffic
